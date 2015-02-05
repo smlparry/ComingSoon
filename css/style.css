@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	-webkit-animation: AnimationName 15s ease infinite;
+	text-align: center;
+	background: linear-gradient(230deg,#a24bcf,#4b79cf,#4bc5cf);
+	background-size: 100%;
+	-webkit-animation: MoveBG 15s ease infinite;
+	-moz-animation: MoveBG 15s ease infinite;
+	-o-animation: MoveBG 15s ease infinite;
+	-webkit-animation: MoveBG 15s ease infinite;
+}
+
+.content h1 {
+	text-align: center;
+	color: white;
+	margin-top: 22%;
+	font-weight: 100;
+}
